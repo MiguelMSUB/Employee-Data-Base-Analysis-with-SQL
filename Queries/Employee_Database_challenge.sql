@@ -30,7 +30,7 @@ FROM unique_titles as ut
 GROUP BY ut.title
 ORDER BY COUNT(ut.title) DESC;
 
--- Mentorship Eligibility
+-- Mentorship Eligibility just as Instructions required
 
 SELECT DISTINCT ON (e.emp_no) e.emp_no, 
 	e.first_name, 
