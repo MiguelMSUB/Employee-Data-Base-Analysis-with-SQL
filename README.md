@@ -31,4 +31,6 @@ A total of 72,458 eployees are elegible to retire in the next years where 70% of
 
 Acording to the requirements for the mentorship program we found a total of 1,549 elegible employees. So in adition to the required list we can see in the followong tables a sumary per department name and job titles: 
 
+![This is an image](Resources/Mentorship_by_title.png)
 
+![This is an image](Resources/Mentorship_by_dept.png)
